@@ -6,4 +6,4 @@ Collaboration is made simple with TaskMaster's shared task lists and team commun
 
 TaskMaster is available on multiple platforms, ensuring that you stay organized whether you're at your desk or on the go. Embrace the future of task management with TaskMaster and transform the way you work.
 
-This line is fixed by hotfix branch
+This line is fixed by hotfix branch also fixed by v1.0.1
