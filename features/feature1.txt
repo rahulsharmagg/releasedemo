@@ -5,3 +5,5 @@ The application also offers seamless integration with popular calendar apps, all
 Collaboration is made simple with TaskMaster's shared task lists and team communication tools. You can assign tasks, set deadlines, and track progress, all within the app. The built-in analytics feature provides insights into your productivity patterns, helping you identify areas for improvement.
 
 TaskMaster is available on multiple platforms, ensuring that you stay organized whether you're at your desk or on the go. Embrace the future of task management with TaskMaster and transform the way you work.
+
+This line is fixed by hotfix branch
