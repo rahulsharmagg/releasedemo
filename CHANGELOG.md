@@ -1,3 +1,10 @@
+## 1.0.3 (February 06, 2025)
+  - Added feature 6
+  - Merge tag 'release-v1.0.3' into develop
+  - Merge branch 'release/release-v1.0.3'
+  - Added some new features etc.
+  - Previously release was 0.1.0 was a mistake
+
 ## 0.1.0 (February 06, 2025)
   - Added feature 5
   - Merge tag 'v1.0.2' into develop
