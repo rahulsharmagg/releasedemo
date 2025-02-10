@@ -1,3 +1,10 @@
+## 1.0.7 (February 10, 2025)
+  - In feature 6 modified admin
+  - Another shell script for bump-version
+  - Include the bump-version shell script file.
+  - Merge tag 'release-v1.0.4' into develop
+  - Merge branch 'release/release-v1.0.4'
+
 ## 1.0.3 (February 06, 2025)
   - Added feature 6
   - Merge tag 'release-v1.0.3' into develop
