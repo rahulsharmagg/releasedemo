@@ -1,3 +1,6 @@
+## 1.0.8 (February 10, 2025)
+  - Added gitignore file
+
 ## 1.0.7 (February 10, 2025)
   - In feature 6 modified admin
   - Another shell script for bump-version
