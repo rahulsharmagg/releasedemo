@@ -89,8 +89,6 @@ else
         echo -e "$PUSHING_MSG"
         git add VERSION CHANGELOG.md
         git commit -m "Add VERSION and CHANGELOG.md files, Bump version to v0.1.0."
-        git tag -a -m "Tag version 0.1.0." "v0.1.0"
-        git push origin --tags
     fi
 fi
 
