@@ -67,8 +67,6 @@ if [ -f VERSION ]; then
     echo -e "$PUSHING_MSG"
     git add CHANGELOG.md VERSION
     git commit -m "Bump version to ${INPUT_STRING}."
-    git tag -a -m "Tag version ${INPUT_STRING}." "v$INPUT_STRING"
-    git push origin --tags
 else
     echo -e "${WARNING_FLAG} Could not find a VERSION file."
     echo -ne "${QUESTION_FLAG} ${CYAN}Do you want to create a version file and start from scratch? [${WHITE}y${CYAN}]: "
