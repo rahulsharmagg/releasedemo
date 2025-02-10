@@ -1,3 +1,8 @@
+## 1.0.9 (February 10, 2025)
+  - edited the git attribute
+  - Merge tag 'v1.0.8' into develop
+  - Merge tag 'v1.0.7' into develop
+
 ## 1.0.8 (February 10, 2025)
   - Added gitignore file
 
